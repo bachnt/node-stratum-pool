@@ -32,7 +32,7 @@
         "base58-native": "*",
         "bignum": "*",
         "bgoldjs-lib": "*",
-        "equihashverify": "git+https://github.com/BitcoinGold-mining/equihashverify.git",
+        "equihashverify": "git+https://github.com/s-nomp/equihashverify.git",
         "merkle-bitcoin": "*",
         "promise": "*"
     },
