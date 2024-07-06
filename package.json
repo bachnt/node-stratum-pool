@@ -30,9 +30,7 @@
     "dependencies": {
         "async": "*",
         "base58-native": "*",
-        "bignum": "0.13.1",
         "bgoldjs-lib": "*",
-        "equihashverify": "git+https://github.com/BitcoinGold-mining/equihashverify.git",
         "merkle-bitcoin": "*",
         "promise": "*"
     },
