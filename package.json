@@ -33,7 +33,7 @@
         "bignum": "*",
         "bgoldjs-lib": "*",
         "equihashverify": "git+https://github.com/BitcoinGold-mining/equihashverify.git",
-        "merkle-bitcoin": "^1.0.2",
+        "merkle-bitcoin": "*",
         "promise": "*"
     },
     "engines": {
