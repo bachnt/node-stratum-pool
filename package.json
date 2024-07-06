@@ -32,7 +32,8 @@
         "base58-native": "*",
         "bgoldjs-lib": "*",
         "merkle-bitcoin": "*",
-        "promise": "*"
+        "promise": "*",
+        "equihashverify": "git+https://github.com/BitcoinGold-mining/equihashverify.git"
     },
     "engines": {
         "node": ">=7"
