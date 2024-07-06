@@ -30,7 +30,7 @@
     "dependencies": {
         "async": "*",
         "base58-native": "*",
-        "bignum": "*",
+        "bignum": "0.13.1",
         "bgoldjs-lib": "*",
         "equihashverify": "git+https://github.com/s-nomp/equihashverify.git",
         "merkle-bitcoin": "*",
